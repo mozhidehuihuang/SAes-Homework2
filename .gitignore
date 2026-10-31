@@ -1,0 +1,13 @@
+# 构建输出
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+
+# 临时文件
+*.tmp
+*.bak
